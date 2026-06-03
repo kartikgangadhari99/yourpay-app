@@ -1,0 +1,22 @@
+.receive-page { max-width: 420px; display: flex; flex-direction: column; gap: 16px; }
+.qr-card { text-align: center; }
+.qr-card h3 { font-size: 17px; font-weight: 600; margin-bottom: 6px; }
+.qr-desc { font-size: 13px; color: var(--text2); margin-bottom: 20px; }
+.qr-placeholder { height: 200px; display: flex; align-items: center; justify-content: center; color: var(--text3); }
+.qr-container { display: inline-flex; padding: 12px; background: #fff; border-radius: 12px; margin-bottom: 16px; box-shadow: 0 2px 8px rgba(0,0,0,.1); }
+.qr-image { width: 180px; height: 180px; display: block; }
+.upi-display { margin-bottom: 12px; }
+.upi-label { font-size: 11px; color: var(--text3); text-transform: uppercase; letter-spacing: .05em; margin-bottom: 4px; }
+.upi-value { display: flex; align-items: center; justify-content: center; gap: 8px; }
+.upi-value span { font-family: var(--mono); font-size: 15px; font-weight: 600; }
+.copy-btn { padding: 4px 12px; border: 1px solid var(--accent); color: var(--accent); background: none; border-radius: 6px; font-size: 12px; cursor: pointer; transition: all 0.15s; }
+.copy-btn:hover { background: var(--accent); color: #fff; }
+.user-display { display: flex; flex-direction: column; align-items: center; gap: 6px; margin-bottom: 16px; }
+.user-avatar-lg { width: 48px; height: 48px; border-radius: 50%; background: var(--accent); color: #fff; display: flex; align-items: center; justify-content: center; font-size: 20px; font-weight: 700; }
+.user-display-name { font-size: 15px; font-weight: 600; }
+.qr-actions { display: flex; gap: 10px; justify-content: center; }
+.qr-action-btn { padding: 8px 16px; border: 1px solid var(--border); border-radius: 8px; background: var(--bg3); font-size: 13px; cursor: pointer; transition: all 0.15s; color: var(--text); }
+.qr-action-btn:hover { border-color: var(--accent); color: var(--accent); }
+.instructions-card h4 { font-size: 15px; font-weight: 600; margin-bottom: 12px; }
+.instructions { padding-left: 18px; display: flex; flex-direction: column; gap: 8px; }
+.instructions li { font-size: 14px; color: var(--text2); line-height: 1.5; }
