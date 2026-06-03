@@ -1,6 +1,6 @@
 # YourPay — UPI Payment Simulation (MERN Stack)
 
-A full-stack digital payment simulation app inspired by PhonePe/GPay/Paytm.
+A full-stack digital payment simulation app.
 
 ## Quick Start
 
