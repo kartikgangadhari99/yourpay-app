@@ -72,16 +72,16 @@ yourpay/
 ## Screenshots
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/dashboard.png.png)
 
 ### Send Money
-![Send Money](screenshots/send-money.png)
+![Send Money](screenshots/sendmoney.png.png)
 
 ### PIN Verification
-![PIN Verification](screenshots/pin-verification.png)
+![PIN Verification](screenshots/pinentered.png.png)
 
 ### Payment Success
-![Payment Success](screenshots/payment-success.png)
+![Payment Success](screenshots/paymentsuccess.png.png)
 
 ## Disclaimer
 Educational project only. No real transactions.
