@@ -69,5 +69,19 @@ yourpay/
 - Dark mode toggle
 - Fully responsive
 
+## Screenshots
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Send Money
+![Send Money](screenshots/send-money.png)
+
+### PIN Verification
+![PIN Verification](screenshots/pin-verification.png)
+
+### Payment Success
+![Payment Success](screenshots/payment-success.png)
+
 ## Disclaimer
 Educational project only. No real transactions.
